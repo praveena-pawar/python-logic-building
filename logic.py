@@ -20,11 +20,15 @@
 
 # @2 Take a number from the user and print whether it is EVEN or ODD.
 
-n = int(input("Enter number :"))
-if (n % 2 == 0):
-    print("number is even")
-else :
-    print("number is odd")
+# n = int(input("Enter number :"))
+# if (n % 2 == 0):
+#     print("number is even")
+# else :
+#     print("number is odd")
+
+
+
+
 
 
 
@@ -35,11 +39,14 @@ else :
 # 18 or more → “Eligible to vote”
 # Less than 18 → “Not eligible”
 
-# age = int(input("Enter age :"))
-# if age >= 18 :
-#     print("Eligible for vote..")
-# else:
-#     print("not eligible..")
+age = int(input("Enter age :"))
+if age >= 18 :
+    print("Eligible for vote..")
+else:
+    print("not eligible..")
+
+
+
 
 
 
