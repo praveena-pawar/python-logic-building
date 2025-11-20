@@ -3,12 +3,12 @@
 
 # Q1 Take two numbers from the user and print the bigger number
 
-num1 = int(input("Enter fisr number :"))
-num2 = int(input("Enter second number :"))
-if num1 > num2 :
-    print("bigger number is :",num1)
-else :
-    print("bigger number is :",num2)
+# num1 = int(input("Enter fisr number :"))
+# num2 = int(input("Enter second number :"))
+# if num1 > num2 :
+#     print("bigger number is :",num1)
+# else :
+#     print("bigger number is :",num2)
 
 
 
@@ -20,11 +20,11 @@ else :
 
 # @2 Take a number from the user and print whether it is EVEN or ODD.
 
-# n = int(input("Enter number :"))
-# if (n % 2 == 0):
-#     print("number is even")
-# else :
-#     print("number is odd")
+n = int(input("Enter number :"))
+if (n % 2 == 0):
+    print("number is even")
+else :
+    print("number is odd")
 
 
 
